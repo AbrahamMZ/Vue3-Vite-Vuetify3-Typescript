@@ -76,6 +76,7 @@
     padding-top: 60px;
     text-align: center;
   }
+
   .creator {
     position: absolute;
     bottom: 20px;
@@ -84,6 +85,7 @@
     text-decoration: none;
     color: black;
   }
+
   .icon {
     color: white;
   }

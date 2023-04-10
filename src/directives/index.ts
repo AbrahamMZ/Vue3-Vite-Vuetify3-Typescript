@@ -8,6 +8,6 @@ export default {
       } else {
         el.style.color = 'black'
       }
-    },
-  },
+    }
+  }
 }
